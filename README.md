@@ -1,3 +1,4 @@
+***
 # devshop
 # DevShop - E-Commerce Website
 
@@ -34,3 +35,4 @@ devshop/
 
 ## GitHub Repository Link
 [DevShop Repository](https://github.com/Haris-ca/devshop)
+***
