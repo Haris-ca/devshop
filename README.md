@@ -1,5 +1,3 @@
-
-# devshop
 # DevShop - E-Commerce Website
 
 ## Project Objective
