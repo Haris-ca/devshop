@@ -11,8 +11,9 @@ The objective of this project is to build an e-commerce website using a feature-
 * JavaScript
 * Git & GitHub
 
-```
+
 ## Folder Structure
+```
 devshop/
 ├── index.html
 ├── products.html
