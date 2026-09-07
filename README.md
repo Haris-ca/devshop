@@ -11,6 +11,7 @@ The objective of this project is to build an e-commerce website using a feature-
 * JavaScript
 * Git & GitHub
 
+```
 ## Folder Structure
 devshop/
 ├── index.html
@@ -24,6 +25,7 @@ devshop/
 │   └── style.css
 └── js/
 └── script.js
+```
 
 ## Git Workflow
 1. Created feature branches (`feature-home`, `feature-products`, `feature-about`, `feature-contact`, `feature-login`, `feature-ui`, `feature-header`).
@@ -31,7 +33,7 @@ devshop/
 3. Pushed feature branches to GitHub.
 4. Created and merged Pull Requests into `main`.
 5. Pulled the updated `main` branch locally and deleted merged local branches.
-6. Triggered and resolved a merge conflict on `index.html`.
+6. Triggered and resolved a merge conflict on `index.htmlii` .
 
 ## GitHub Repository Link
 [DevShop Repository](https://github.com/Haris-ca/devshop)
